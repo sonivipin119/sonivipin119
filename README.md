@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vipin Soni</h1>
-<h3 align="center">A passionate MERN Stack development from India</h3>
+<h3 align="center">A passionate Full Stack development from India</h3>
 
-- 🔭 I’m currently working on **Railway Ticket booking system like IRTCT**
+- 🔭 I’m currently working on **Medical Prescription and Verification System**
 
 - 🌱 I’m currently learning **APIs, Framework**
 
